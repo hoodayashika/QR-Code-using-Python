@@ -29,4 +29,5 @@ The customized QR code with the background image is displayed using PIL.
 #### Customization Features:
 - Background Image: You can add any image to the QR code to make it visually appealing.
 - Colorization: You can generate a colorized QR code instead of the default black and white.
+
 This project provides a simple and fun way to generate both basic and custom QR codes for sharing information in a visually attractive manner. The generated QR codes are saved locally and displayed within the Jupyter Notebook, making it easy to verify and share.
