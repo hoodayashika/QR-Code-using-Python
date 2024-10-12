@@ -5,14 +5,14 @@ This project demonstrates how to generate and customize QR codes using the MyQR 
 
 In this project, the following steps are covered:
 
-- Generating a Basic QR Code: A QR code is generated with a link to Yashika Hooda's GitHub profile.
+- Generating a Basic QR Code: A QR code is generated with a link to my GitHub profile.
 - Customizing the QR Code: A customized QR code is created by adding a background image and changing the appearance of the code.
 - Displaying the QR Codes: The generated QR codes are displayed directly within the Jupyter Notebook for visual verification.
 
 ### Steps Involved:
 1. Basic QR Code Generation:
 - The myqr.run() function is used to generate a basic QR code with the content of a URL.
-- In this example, the QR code encodes the URL to Yashika's GitHub profile: https://github.com/hoodayashika.
+- In this example, the QR code encodes the URL to my GitHub profile.
 - The generated QR code is saved as an image file (yashikahoodaGitHubLink.png).
 
 2. Displaying the Generated QR Code:
